@@ -1,1 +1,1 @@
-#### I'm currently programming in Ruby & some of it's on Rails
+![Animated svg of moon phasing](./assets/sky-banner-svg.svg)

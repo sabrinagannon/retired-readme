@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1200 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Sky-bg" serif:id="Sky bg" x="-1.561" y="-0.224" width="1201.02" height="400.848" style="fill:rgb(0,0,54);"/>
+    <g id="Full-moon" serif:id="Full moon" transform="matrix(1,0,0,1,171.815,-37.4055)">
+        <circle cx="428.185" cy="237.405" r="172.245" style="fill:url(#_Radial1);"/>
+    </g>
+    <g id="New-moon" serif:id="New moon" transform="matrix(1,0,0,1,171.815,-37.4055)">
+      <circle cx="428.185" cy="237.405" r="172.245" style="fill:rgb(0,0,54);">
+        <animate attributeName="cx" values="100;800;" begin="1s;" dur="40s" repeatCount="indefinite" />
+      </circle>
+    </g>
+    <g id="Star-flowers" serif:id="Star flowers">
+        <g id="star-flower-RBR" serif:id="star flower RBR" transform="matrix(1,0,0,1,929.957,4.95879)">
+            <path d="M154.717,222.944L176.314,238.635L165.516,253.497L182.987,259.174L174.738,284.562L157.267,278.885L157.267,297.256L130.572,297.256L130.572,278.885L113.101,284.562L104.851,259.174L122.323,253.497L111.525,238.635L133.121,222.944L143.919,237.806L154.717,222.944Z" style="fill:url(#_Radial2);"/>
+        </g>
+        <g id="star-flower-RTR" serif:id="star flower RTR" transform="matrix(1,0,0,1,983.365,-173.295)">
+            <path d="M154.717,222.944L176.314,238.635L165.516,253.497L182.987,259.174L174.738,284.562L157.267,278.885L157.267,297.256L130.572,297.256L130.572,278.885L113.101,284.562L104.851,259.174L122.323,253.497L111.525,238.635L133.121,222.944L143.919,237.806L154.717,222.944Z" style="fill:url(#_Radial3);"/>
+        </g>
+        <g id="star-flower-LBR" serif:id="star flower LBR" transform="matrix(1,0,0,1,123.801,4.14048)">
+            <path d="M154.717,222.944L176.314,238.635L165.516,253.497L182.987,259.174L174.738,284.562L157.267,278.885L157.267,297.256L130.572,297.256L130.572,278.885L113.101,284.562L104.851,259.174L122.323,253.497L111.525,238.635L133.121,222.944L143.919,237.806L154.717,222.944Z" style="fill:url(#_Radial4);"/>
+        </g>
+        <g id="star-flower-LTR" serif:id="star flower LTR" transform="matrix(1,0,0,1,113.598,-176.484)">
+            <path d="M154.717,222.944L176.314,238.635L165.516,253.497L182.987,259.174L174.738,284.562L157.267,278.885L157.267,297.256L130.572,297.256L130.572,278.885L113.101,284.562L104.851,259.174L122.323,253.497L111.525,238.635L133.121,222.944L143.919,237.806L154.717,222.944Z" style="fill:url(#_Radial5);"/>
+        </g>
+        <g id="star-flower-RBL" serif:id="star flower RBL" transform="matrix(1,0,0,1,744.316,44.4957)">
+            <path d="M154.717,222.944L176.314,238.635L165.516,253.497L182.987,259.174L174.738,284.562L157.267,278.885L157.267,297.256L130.572,297.256L130.572,278.885L113.101,284.562L104.851,259.174L122.323,253.497L111.525,238.635L133.121,222.944L143.919,237.806L154.717,222.944Z" style="fill:url(#_Radial6);"/>
+        </g>
+        <g id="star-flower-RTL" serif:id="star flower RTL" transform="matrix(1,0,0,1,773.518,-194.678)">
+            <path d="M154.717,222.944L176.314,238.635L165.516,253.497L182.987,259.174L174.738,284.562L157.267,278.885L157.267,297.256L130.572,297.256L130.572,278.885L113.101,284.562L104.851,259.174L122.323,253.497L111.525,238.635L133.121,222.944L143.919,237.806L154.717,222.944Z" style="fill:url(#_Radial7);"/>
+        </g>
+        <g id="star-flower-LBL" serif:id="star flower LBL" transform="matrix(1,0,0,1,-83.4277,72.6385)">
+            <path d="M154.717,222.944L176.314,238.635L165.516,253.497L182.987,259.174L174.738,284.562L157.267,278.885L157.267,297.256L130.572,297.256L130.572,278.885L113.101,284.562L104.851,259.174L122.323,253.497L111.525,238.635L133.121,222.944L143.919,237.806L154.717,222.944Z" style="fill:url(#_Radial8);"/>
+        </g>
+        <g id="star-flower-LTL" serif:id="star flower LTL" transform="matrix(1,0,0,1,-63.8149,-177.111)">
+            <path d="M154.717,222.944L176.314,238.635L165.516,253.497L182.987,259.174L174.738,284.562L157.267,278.885L157.267,297.256L130.572,297.256L130.572,278.885L113.101,284.562L104.851,259.174L122.323,253.497L111.525,238.635L133.121,222.944L143.919,237.806L154.717,222.944Z" style="fill:url(#_Radial9);"/>
+        </g>
+    </g>
+    <defs>
+        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(172.245,0,0,172.245,428.185,237.405)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="0.56" style="stop-color:rgb(255,249,225);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,247,212);stop-opacity:1"/></radialGradient>
+        <radialGradient id="_Radial2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(45.4152,0,0,45.4152,143.919,260.514)"><stop offset="0" style="stop-color:rgb(255,128,211);stop-opacity:1"/><stop offset="0.47" style="stop-color:rgb(239,216,245);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(234,241,255);stop-opacity:1"/></radialGradient>
+        <radialGradient id="_Radial3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(45.4152,0,0,45.4152,143.919,260.514)"><stop offset="0" style="stop-color:rgb(255,128,211);stop-opacity:1"/><stop offset="0.47" style="stop-color:rgb(239,216,245);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(234,241,255);stop-opacity:1"/></radialGradient>
+        <radialGradient id="_Radial4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(45.4152,0,0,45.4152,143.919,260.514)"><stop offset="0" style="stop-color:rgb(255,128,211);stop-opacity:1"/><stop offset="0.47" style="stop-color:rgb(239,216,245);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(234,241,255);stop-opacity:1"/></radialGradient>
+        <radialGradient id="_Radial5" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(45.4152,0,0,45.4152,143.919,260.514)"><stop offset="0" style="stop-color:rgb(255,128,211);stop-opacity:1"/><stop offset="0.47" style="stop-color:rgb(239,216,245);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(234,241,255);stop-opacity:1"/></radialGradient>
+        <radialGradient id="_Radial6" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(45.4152,0,0,45.4152,143.919,260.514)"><stop offset="0" style="stop-color:rgb(255,128,211);stop-opacity:1"/><stop offset="0.47" style="stop-color:rgb(239,216,245);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(234,241,255);stop-opacity:1"/></radialGradient>
+        <radialGradient id="_Radial7" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(45.4152,0,0,45.4152,143.919,260.514)"><stop offset="0" style="stop-color:rgb(255,128,211);stop-opacity:1"/><stop offset="0.47" style="stop-color:rgb(239,216,245);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(234,241,255);stop-opacity:1"/></radialGradient>
+        <radialGradient id="_Radial8" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(45.4152,0,0,45.4152,143.919,260.514)"><stop offset="0" style="stop-color:rgb(255,128,211);stop-opacity:1"/><stop offset="0.47" style="stop-color:rgb(239,216,245);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(234,241,255);stop-opacity:1"/></radialGradient>
+        <radialGradient id="_Radial9" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(45.4152,0,0,45.4152,143.919,260.514)"><stop offset="0" style="stop-color:rgb(255,128,211);stop-opacity:1"/><stop offset="0.47" style="stop-color:rgb(239,216,245);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(234,241,255);stop-opacity:1"/></radialGradient>
+    </defs>
+</svg>
+
