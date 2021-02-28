@@ -12,6 +12,11 @@ I'm a Ruby on Rails developer for my daily work. I love improving processes, tin
 ## ✍🏼Recent posts I've written
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Commit Revert in Rails using Guard](https://www.thecodewitch.codes/test-commit-revert-in-rails/)
+- [Developer Documentation I've Used Throughout My Career](https://www.thecodewitch.codes/developer-documentation-ive-used-throughout-my-career/)
+- [Flow state and breaks](https://www.thecodewitch.codes/flow-state-and-breaks/)
+- [Using themer to make your own colorscheme](https://www.thecodewitch.codes/using-themer-to-make-your-own-colorscheme/)
+- [Using the Ivy Lee Method](https://www.thecodewitch.codes/using-the-ivy-lee-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ### README design credits
