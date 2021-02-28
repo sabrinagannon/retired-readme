@@ -19,8 +19,8 @@ I'm a Ruby on Rails developer for my daily work. I love improving processes, tin
 - [Using the Ivy Lee Method](https://www.thecodewitch.codes/using-the-ivy-lee-method/)
 <!-- BLOG-POST-LIST:END -->
 
-### README design credits
+### Credits
 
-As a part of creating this README I followed some really cool tutorials:
-[How to Add Your Recently Published Articles to Your GitHub Profile README using GitHub Actions 🤖 by Darsh Shah](https://iamdarshshah.hashnode.dev/how-to-add-your-recently-published-articles-to-your-github-profile-readme-using-github-actions)
-[Creating a Killer GitHub Profile README by Braydon Coyer](https://dev.to/dailydotdev/creating-a-killer-github-profile-readme-part-1-33nm?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com)
+As a part of creating this README I followed some really cool tutorials:  
+[How to Add Your Recently Published Articles to Your GitHub Profile README using GitHub Actions 🤖 by Darsh Shah](https://iamdarshshah.hashnode.dev/how-to-add-your-recently-published-articles-to-your-github-profile-readme-using-github-actions)  
+[Creating a Killer GitHub Profile README by Braydon Coyer](https://dev.to/dailydotdev/creating-a-killer-github-profile-readme-part-1-33nm?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com)  
