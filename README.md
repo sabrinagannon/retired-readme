@@ -1,15 +1,13 @@
 ![Animated svg of moon phasing](https://raw.githubusercontent.com/skelebrina/skelebrina/release/assets/sky-banner-svg.svg)
 
-## Hi I'm Sabrina 🌝
+## 🌝 Hi I'm Sabrina
 
-I'm a Ruby on Rails developer for my daily work. I love improving processes, tinkering with tooling, and writing.
-
-## Other platforms you can follow me on
+I'm a Ruby on Rails developer who loves improving processes, tinkering with tooling, and writing. In addition to my Github, check out [the projects page on my site](https://www.thecodewitch.codes/projects/) for an idea of the kinds of things I enjoy working on.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/thecodewitch?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/sabrinathecodewitch?style=social)
 
-## ✍🏼Recent posts I've written
+## ✍🏼 Latest on the blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Test Commit Revert in Rails using Guard](https://www.thecodewitch.codes/test-commit-revert-in-rails/)
@@ -19,7 +17,7 @@ I'm a Ruby on Rails developer for my daily work. I love improving processes, tin
 - [Using the Ivy Lee Method](https://www.thecodewitch.codes/using-the-ivy-lee-method/)
 <!-- BLOG-POST-LIST:END -->
 
-### Credits
+### 🏆 Credits
 
 As a part of creating this README I followed some really cool tutorials:  
 [How to Add Your Recently Published Articles to Your GitHub Profile README using GitHub Actions 🤖 by Darsh Shah](https://iamdarshshah.hashnode.dev/how-to-add-your-recently-published-articles-to-your-github-profile-readme-using-github-actions)  
