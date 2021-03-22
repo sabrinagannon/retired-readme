@@ -10,11 +10,11 @@ I'm a Ruby on Rails developer who loves improving processes, tinkering with tool
 ## ✍🏼 Latest on the blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Commit Revert in Rails using Guard](https://www.thecodewitch.codes/test-commit-revert-in-rails/)
-- [Developer Documentation I've Used Throughout My Career](https://www.thecodewitch.codes/developer-documentation-ive-used-throughout-my-career/)
-- [Flow state and breaks](https://www.thecodewitch.codes/flow-state-and-breaks/)
-- [Using themer to make your own colorscheme](https://www.thecodewitch.codes/using-themer-to-make-your-own-colorscheme/)
-- [Using the Ivy Lee Method](https://www.thecodewitch.codes/using-the-ivy-lee-method/)
+- [Test Commit Revert in Rails using Guard](https://thecodewitch.codes/test-commit-revert-in-rails/)
+- [Developer Documentation I've Used Throughout My Career](https://thecodewitch.codes/developer-documentation-ive-used-throughout-my-career/)
+- [Flow state and breaks](https://thecodewitch.codes/flow-state-and-breaks/)
+- [Using themer to make your own colorscheme](https://thecodewitch.codes/using-themer-to-make-your-own-colorscheme/)
+- [Using the Ivy Lee Method](https://thecodewitch.codes/using-the-ivy-lee-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏆 Credits
