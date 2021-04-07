@@ -9,11 +9,11 @@ I'm a Ruby on Rails developer who loves improving processes, tinkering with tool
 ## ✍🏼 Latest on the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Checking Your Types](https://thecodewitch.codes/checking-your-types/)
 - [Test Commit Revert in Rails using Guard](https://thecodewitch.codes/test-commit-revert-in-rails/)
 - [Developer Documentation I've Used Throughout My Career](https://thecodewitch.codes/developer-documentation-ive-used-throughout-my-career/)
 - [Flow state and breaks](https://thecodewitch.codes/flow-state-and-breaks/)
 - [Using themer to make your own colorscheme](https://thecodewitch.codes/using-themer-to-make-your-own-colorscheme/)
-- [Using the Ivy Lee Method](https://thecodewitch.codes/using-the-ivy-lee-method/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🏆 Credits
