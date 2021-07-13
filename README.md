@@ -2,9 +2,7 @@
 
 ## 🌝 Hi I'm Sabrina
 
-I'm a Ruby on Rails developer who loves improving processes, tinkering with tooling, and writing. In addition to my Github, check out [the projects page on my site](https://www.thecodewitch.codes/projects/) for an idea of the kinds of things I enjoy working on.
-
-[Follow me on Twitter for updates](https://twitter.com/intent/follow?screen_name=thecodewitch)
+I'm a Ruby on Rails developer who loves improving processes, tinkering with tooling, and writing.
 
 ## ✍🏼 Latest on the blog
 
